@@ -1,17 +1,16 @@
-# missing packages for the lakers and marathon scripts
-
 # Requirements for all
 requests==2.31.0
 pandas==1.5.2
 numpy==1.23.5
-matplotlib==3.5.1
+matplotlib==3.5.2
 
 # Baseball Scripts
 seaborn==0.11.1
 pybaseball==2.2.7
 PIL.Image==10.3.0
 
-
 # Lakers scripts
+beautifulsoup4==4.12.2
 
 # Marathon scripts
+fitdecode==0.11.1
