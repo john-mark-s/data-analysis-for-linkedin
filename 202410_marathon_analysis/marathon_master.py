@@ -1,4 +1,4 @@
-# Converts the training data from an Excel file to a more readable format
+# Converts the training data from an Excel file to a better format for visualising with Data Wrapper
 
 import pandas as pd
 from datetime import timedelta, datetime
